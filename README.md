@@ -1,2 +1,2 @@
-# suduko-puzzle-game
-Sudoku puzzle game
+# Melanoma skin cancer detection
+Melanoma skin cancer detection using CNN model
